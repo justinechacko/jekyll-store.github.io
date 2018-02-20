@@ -1,6 +1,6 @@
 title: Jekyll-Store
 description: CMS-Free Ecommerce Solution
-baseurl: ''
+baseurl: 'jekyll-store.github.io'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
